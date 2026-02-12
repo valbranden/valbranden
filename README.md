@@ -35,16 +35,17 @@
 ##
 
 ### Formação e Cursos
-
-Graduação em Tecnologia de Design Gráfico (ULBRA) <br>
-Pós-Graduação em Docência para Ensino Superior (Universidade Dom Bosco) <br>
-Pós-Graduação em DocÊncia para Ensino Técnico e Profissio nalizante (Uniasselvi) <br>
-Pós-Graduação em UX/UI Design (Faculdade Iguaçú) <br>
-Pós-Graduação em Robótica Educacional (Faculdade Iguaçú) <br>
-Pós-Graduação em Inteligência Artificial (Faculdade Iguaçú) <br>
-Curso De Extensão Em Transtorno Do Espectro Autista (Faculdade Iguaçú) <br> 
-Capacitação em Análise do Comportamento Aplicada (ABA) voltada ao Transtorno do Espectro do Autismo (TEA) para Pais, Cuidadores e Educadores (Escola de Saúde Pública do Paraná) <br>
-Curso De Capacitação Profissional Em Desenvolvimento De Sistemas (Faculdade Iguaçú) <br> 
+<ul>
+   <li> Graduação em Tecnologia de Design Gráfico (ULBRA) <br>
+   <li> Pós-Graduação em Docência para Ensino Superior (Universidade Dom Bosco) <br>
+   <li> Pós-Graduação em DocÊncia para Ensino Técnico e Profissio nalizante (Uniasselvi) <br>
+   <li> Pós-Graduação em UX/UI Design (Faculdade Iguaçú) <br>
+   <li> Pós-Graduação em Robótica Educacional (Faculdade Iguaçú) <br>
+   <li> Pós-Graduação em Inteligência Artificial (Faculdade Iguaçú) <br>
+   <li> Curso De Extensão Em Transtorno Do Espectro Autista (Faculdade Iguaçú) <br> 
+   <li>  Capacitação em Análise do Comportamento Aplicada (ABA) voltada ao Transtorno do Espectro do Autismo (TEA) para Pais, Cuidadores e Educadores (Escola de Saúde Pública do Paraná) <br>
+   <li>  Curso De Capacitação Profissional Em Desenvolvimento De Sistemas (Faculdade Iguaçú) <br> 
+</ul>
 
 <br>
 <br>
