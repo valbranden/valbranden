@@ -32,7 +32,20 @@
 
 </div>
   
-  ##
+##
+
+### Formação e Cursos
+
+Graduação em Tecnologia de Design Gráfico (ULBRA) <br>
+Pós-Graduação em Docência para Ensino Superior (Universidade Dom Bosco) <br>
+Pós-Graduação em DocÊncia para Ensino Técnico e Profissio nalizante (Uniasselvi) <br>
+Pós-Graduação em UX/UI Design (Faculdade Iguaçú) <br>
+Pós-Graduação em Robótica Educacional (Faculdade Iguaçú) <br>
+Pós-Graduação em Inteligência Artificial (Faculdade Iguaçú) <br>
+
+<br>
+<br>
+
  
 <div> 
   <a href="https://www.youtube.com/@CanalMENTALTEC" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
