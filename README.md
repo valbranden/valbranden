@@ -42,6 +42,9 @@ Pós-Graduação em DocÊncia para Ensino Técnico e Profissio nalizante (Uniass
 Pós-Graduação em UX/UI Design (Faculdade Iguaçú) <br>
 Pós-Graduação em Robótica Educacional (Faculdade Iguaçú) <br>
 Pós-Graduação em Inteligência Artificial (Faculdade Iguaçú) <br>
+Curso De Extensão Em Transtorno Do Espectro Autista (Faculdade Iguaçú) <br> 
+Capacitação em Análise do Comportamento Aplicada (ABA) voltada ao Transtorno do Espectro do Autismo (TEA) para Pais, Cuidadores e Educadores (Escola de Saúde Pública do Paraná) <br>
+Curso De Capacitação Profissional Em Desenvolvimento De Sistemas (Faculdade Iguaçú) <br> 
 
 <br>
 <br>
