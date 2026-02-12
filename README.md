@@ -38,7 +38,7 @@
 <ul>
    <li> Graduação em Tecnologia de Design Gráfico (ULBRA) <br>
    <li> Pós-Graduação em Docência para Ensino Superior (Universidade Dom Bosco) <br>
-   <li> Pós-Graduação em DocÊncia para Ensino Técnico e Profissio nalizante (Uniasselvi) <br>
+   <li> Pós-Graduação em DocÊncia para Ensino Técnico e Profissionalizante (Uniasselvi) <br>
    <li> Pós-Graduação em UX/UI Design (Faculdade Iguaçú) <br>
    <li> Pós-Graduação em Robótica Educacional (Faculdade Iguaçú) <br>
    <li> Pós-Graduação em Inteligência Artificial (Faculdade Iguaçú) <br>
